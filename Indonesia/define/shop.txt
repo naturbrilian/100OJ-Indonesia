@@ -41,10 +41,10 @@ Lainnya
 Emoji
 
 < SHOP_LABEL_PETS >
-Pet
+Peliharaan
 
 < SHOP_LABEL_ARCADE >
-Arcade
+Arkade
 
 < SHOP_LABEL_DLC >
 DLC
@@ -80,7 +80,7 @@ Sham & Sherry
 Breaker Pack
 
 < SHOP_DLC_ACCELERATIONPACK >
-Acceleration Pack
+Paket Akselerasi
 
 < SHOP_DLC_NATHTOMATOMIMYUU >
 Nath & Tomato + Mimyuu
@@ -119,7 +119,7 @@ Toy Store Pack
 Iru & Mira
 
 < SHOP_DLC_CUTIES >
-Cuties
+Keimutan
 
 < SHOP_DLC_ULTIMATEWEAPONGIRL >
 Ultimate Weapon Girl
@@ -134,7 +134,7 @@ Pudding Pack
 Old Guardian Pack
 
 < SHOP_DLC_ELLIELULU >
-Wanderer Pack
+Paket Pengembara
 
 < SHOP_DLC_RONETEO >
 Alicianrone & Teotoratta
